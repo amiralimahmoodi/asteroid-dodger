@@ -2,7 +2,7 @@
 
 Simple, lightweight 🕸 game.
 
-[![Play Game](https://img.shields.io/badge/Play-Now-blue?style=for-the-badge)](https://amiralimahmoodi.github.io/asteroid-dodger/asteroid-dodger/)
+[![Play Game](https://img.shields.io/badge/Play-Now-blue?style=for-the-badge)](https://amiralimahmoodi.github.io/asteroid-dodger/index.html/)
 
 ## How to Play
 

@@ -1,12 +1,14 @@
-# asteroid-dodger
-simple lightweight 🕸 game/
-Play the game here:
-https://amiralimahmoodi.github.io/asteroid-dodger/
-#How to play
-Controls:
-Left: ← or A
-Right: → or D
-Start/Restart: Space
+# Asteroid Dodger
+
+Simple, lightweight 🕸 game.
+
+[![Play Game](https://img.shields.io/badge/Play-Now-blue?style=for-the-badge)](https://amiralimahmoodi.github.io/asteroid-dodger/)
+
+## How to Play
+
+- **Left:** `←` or `A`
+- **Right:** `→` or `D`
+- **Start/Restart:** `Space`
 
 # Buy me Coffee
 If you enjoy this game, consider supporting an indie developer from Iran.

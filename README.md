@@ -3,7 +3,7 @@ A simple, lightweight web game.
 
 [![🕸️ PLAY NOW](https://img.shields.io/badge/🕸️%20PLAY%20NOW-007BFF?style=for-the-badge)](https://amiralimahmoodi.github.io/asteroid-dodger/)
 
----
+
 
 ## 🎮 How to Play
 

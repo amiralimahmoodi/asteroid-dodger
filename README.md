@@ -1,7 +1,7 @@
 # 🕸️ Asteroid Dodger
 A simple, lightweight browser game.
 
-[![Play Now](https://img.shields.io/badge/🎮-PLAY_NOW-success?style=for-the-badge&logo=gamepad)](https://amiralimahmoodi.github.io/asteroid-dodger/)
+[![Play Now](https://amiralimahmoodi.github.io/asteroid-dodger/)
 
 ---
 

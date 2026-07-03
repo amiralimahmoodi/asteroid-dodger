@@ -1,14 +1,18 @@
-# Asteroid Dodger
+# 🕸️ Asteroid Dodger
+A simple, lightweight browser game.
 
-Simple, lightweight 🕸 game.
+[![Play Now](https://img.shields.io/badge/🎮-PLAY_NOW-success?style=for-the-badge&logo=gamepad)](https://amiralimahmoodi.github.io/asteroid-dodger/)
 
-[![Play Game](https://img.shields.io/badge/Play-Now-blue?style=for-the-badge)](https://amiralimahmoodi.github.io/asteroid-dodger/)
+---
 
-## How to Play
+## 🎮 How to Play
 
-- **Left:** `←` or `A`
-- **Right:** `→` or `D`
-- **Start/Restart:** `Space`
+**Controls:**
+- Move Left: `←` or `A`
+- Move Right: `→` or `D`
+- Start / Restart: `Space`
+
+---
 
 # Buy me Coffee
 If you enjoy this game, consider supporting an indie developer from Iran.

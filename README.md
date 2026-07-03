@@ -1,5 +1,5 @@
 # asteroid-dodger
-simple lightweight 🕸 game 
+simple lightweight 🕸 game/
 Play the game here:
 https://amiralimahmoodi.github.io/asteroid-dodger/
 #How to play
